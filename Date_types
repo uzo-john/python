@@ -1,0 +1,9 @@
+Date types under python are
+1. integers "int"
+2. floats
+3. strings
+
+Examples 
+sum = 10    #10 is an int
+sum = 3.78   # 3.78 is a float
+city = "lagos"   #lagos is string
