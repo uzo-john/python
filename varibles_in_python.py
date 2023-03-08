@@ -1,4 +1,4 @@
-city = "lagos"  #the equal too sign is used to assign strins or any other data types to the variables
+city = "lagos"  #the equal too sign is used to assign strings or any other data types to the variables
 print(city)
 
 output:
